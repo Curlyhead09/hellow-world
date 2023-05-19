@@ -1,6 +1,0 @@
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Win32\test_Win32\bin\Debug\test_Win32.dll
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Win32\test_Win32\bin\Debug\test_Win32.pdb
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Win32\test_Win32\obj\Debug\test_Win32.csproj.AssemblyReference.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Win32\test_Win32\obj\Debug\test_Win32.csproj.CoreCompileInputs.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Win32\test_Win32\obj\Debug\test_Win32.dll
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Win32\test_Win32\obj\Debug\test_Win32.pdb

@@ -1,9 +1,0 @@
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.exe.config
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.pdb
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.csproj.AssemblyReference.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.csproj.GenerateResource.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.csproj.CoreCompileInputs.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.pdb
