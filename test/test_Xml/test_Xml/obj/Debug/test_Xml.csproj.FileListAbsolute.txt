@@ -1,0 +1,10 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\bin\Debug\test_Xml.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\bin\Debug\test_Xml.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\bin\Debug\test_Xml.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\obj\Debug\test_Xml.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\obj\Debug\test_Xml.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\obj\Debug\test_Xml.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\obj\Debug\test_Xml.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\obj\Debug\test_Xml.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\obj\Debug\test_Xml.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Xml\test_Xml\obj\Debug\test_Xml.csproj.AssemblyReference.cache

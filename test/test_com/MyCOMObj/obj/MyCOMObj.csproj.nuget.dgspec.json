@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jrmoon\\Documents\\Visual Studio 2019\\Projects\\test\\test_com\\MyCOMObj\\MyCOMObj.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jrmoon\\Documents\\Visual Studio 2019\\Projects\\test\\test_com\\MyCOMObj\\MyCOMObj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jrmoon\\Documents\\Visual Studio 2019\\Projects\\test\\test_com\\MyCOMObj\\MyCOMObj.csproj",
+        "projectName": "MyCOMObj",
+        "projectPath": "C:\\Users\\jrmoon\\Documents\\Visual Studio 2019\\Projects\\test\\test_com\\MyCOMObj\\MyCOMObj.csproj",
+        "packagesPath": "C:\\Users\\jrmoon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jrmoon\\Documents\\Visual Studio 2019\\Projects\\test\\test_com\\MyCOMObj\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\jrmoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "DllExport": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.csproj.ResolveComReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\bin\Debug\test_Firewall.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\bin\Debug\test_Firewall.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\bin\Debug\test_Firewall.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Firewall\test_Firewall\obj\Debug\test_Firewall.pdb

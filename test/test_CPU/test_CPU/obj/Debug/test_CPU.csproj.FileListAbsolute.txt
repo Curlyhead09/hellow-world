@@ -1,0 +1,10 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\bin\Debug\test_CPU.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\bin\Debug\test_CPU.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\bin\Debug\test_CPU.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\obj\Debug\test_CPU.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\obj\Debug\test_CPU.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\obj\Debug\test_CPU.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\obj\Debug\test_CPU.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\obj\Debug\test_CPU.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\obj\Debug\test_CPU.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CPU\test_CPU\obj\Debug\test_CPU.pdb

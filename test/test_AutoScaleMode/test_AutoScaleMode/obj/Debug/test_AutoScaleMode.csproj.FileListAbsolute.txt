@@ -1,0 +1,9 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\bin\Debug\test_AutoScaleMode.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\bin\Debug\test_AutoScaleMode.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\bin\Debug\test_AutoScaleMode.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\obj\Debug\test_AutoScaleMode.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\obj\Debug\test_AutoScaleMode.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\obj\Debug\test_AutoScaleMode.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\obj\Debug\test_AutoScaleMode.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\obj\Debug\test_AutoScaleMode.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_AutoScaleMode\test_AutoScaleMode\obj\Debug\test_AutoScaleMode.pdb

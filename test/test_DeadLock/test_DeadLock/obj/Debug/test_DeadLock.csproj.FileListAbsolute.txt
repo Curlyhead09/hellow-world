@@ -1,0 +1,10 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\bin\Debug\test_DeadLock.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\bin\Debug\test_DeadLock.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\bin\Debug\test_DeadLock.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\obj\Debug\test_DeadLock.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\obj\Debug\test_DeadLock.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\obj\Debug\test_DeadLock.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\obj\Debug\test_DeadLock.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\obj\Debug\test_DeadLock.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\obj\Debug\test_DeadLock.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_DeadLock\test_DeadLock\obj\Debug\test_DeadLock.pdb

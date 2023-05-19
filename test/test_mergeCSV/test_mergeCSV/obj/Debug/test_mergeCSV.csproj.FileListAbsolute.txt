@@ -1,0 +1,10 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\bin\Debug\test_mergeCSV.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\bin\Debug\test_mergeCSV.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\bin\Debug\test_mergeCSV.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\obj\Debug\test_mergeCSV.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\obj\Debug\test_mergeCSV.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\obj\Debug\test_mergeCSV.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\obj\Debug\test_mergeCSV.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\obj\Debug\test_mergeCSV.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\obj\Debug\test_mergeCSV.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test_mergeCSV\test_mergeCSV\obj\Debug\test_mergeCSV.pdb

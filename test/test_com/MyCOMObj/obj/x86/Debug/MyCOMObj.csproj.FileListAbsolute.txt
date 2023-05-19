@@ -1,0 +1,5 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\MyCOMObj\bin\x86\Debug\MyCOMObj.dll
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\MyCOMObj\bin\x86\Debug\MyCOMObj.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\MyCOMObj\obj\x86\Debug\MyCOMObj.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\MyCOMObj\obj\x86\Debug\MyCOMObj.dll
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\MyCOMObj\obj\x86\Debug\MyCOMObj.pdb

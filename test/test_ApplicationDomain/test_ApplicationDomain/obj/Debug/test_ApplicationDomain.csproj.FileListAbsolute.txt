@@ -1,0 +1,7 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_ApplicationDomain\test_ApplicationDomain\bin\Debug\test_ApplicationDomain.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_ApplicationDomain\test_ApplicationDomain\bin\Debug\test_ApplicationDomain.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_ApplicationDomain\test_ApplicationDomain\bin\Debug\test_ApplicationDomain.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_ApplicationDomain\test_ApplicationDomain\obj\Debug\test_ApplicationDomain.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_ApplicationDomain\test_ApplicationDomain\obj\Debug\test_ApplicationDomain.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_ApplicationDomain\test_ApplicationDomain\obj\Debug\test_ApplicationDomain.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_ApplicationDomain\test_ApplicationDomain\obj\Debug\test_ApplicationDomain.pdb

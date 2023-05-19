@@ -1,0 +1,12 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\bin\Debug\test_Event.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\bin\Debug\test_Event.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\bin\Debug\test_Event.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.FormProgress.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.exe.licenses
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Event\test_Event\obj\Debug\test_Event.pdb

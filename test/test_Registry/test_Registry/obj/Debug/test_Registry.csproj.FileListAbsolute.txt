@@ -1,0 +1,11 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\bin\Debug\test_Registry.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\bin\Debug\test_Registry.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\bin\Debug\test_Registry.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Registry\test_Registry\obj\Debug\test_Registry.exe.licenses
