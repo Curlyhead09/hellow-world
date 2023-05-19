@@ -1,0 +1,7 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_thread\bin\Debug\test_thread.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_thread\bin\Debug\test_thread.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_thread\bin\Debug\test_thread.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_thread\obj\Debug\test_thread.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_thread\obj\Debug\test_thread.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_thread\obj\Debug\test_thread.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_thread\obj\Debug\test_thread.pdb

@@ -1,9 +1,0 @@
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\bin\Debug\test_RegularExpression.exe.config
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\bin\Debug\test_RegularExpression.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\bin\Debug\test_RegularExpression.pdb
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\obj\Debug\test_RegularExpression.csproj.AssemblyReference.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\obj\Debug\test_RegularExpression.Properties.Resources.resources
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\obj\Debug\test_RegularExpression.csproj.GenerateResource.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\obj\Debug\test_RegularExpression.csproj.CoreCompileInputs.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\obj\Debug\test_RegularExpression.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_RegularExpression\test_RegularExpression\obj\Debug\test_RegularExpression.pdb

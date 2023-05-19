@@ -1,0 +1,52 @@
+특정 코드블럭이 사용하는 메모리 체크
+	특정 메서드나 특정 코드 블럭이 얼마만큼의 메모리를 사용하는 지를 체크하기 위해서는 Garbage Collector (GC) 클래스의 보조 메서드들을 사용할 수 있다.
+	GC 클래스의 GetTotalMemory() 메서드는 현재 프로세스가 사용하는 Managed Memory의 메모리 용량을 리턴
+	특정 코드 블력 실행 전과 실행 후의 메모리를 구하여 해당 코드 블럭이 사용한 메모리를 구할 수 있다. 
+	더 이상 사용하지 않는 객체들을 GC가 즉시 메모리에서 없애게 하기 위해 GC.Collect()를 사용할 수 있다 (이는 주로 메모리 테스팅에 사용한다). 
+	아래 예제는 특정 메서드를 호출하기 전과 후의 메모리 용량을 출력해 주고, 강제로 메모리 해제를 실행한 후 남는 메모리 용량을 출력해 준다.	
+	
+	
+		class Program
+		{
+			static void Main(string[] args)
+			{
+				// 초기 메모리 (베이스)
+				long mem = GC.GetTotalMemory(false);
+				Console.WriteLine("Initial Memory: {0}", mem);
+
+				// 특정 함수 호출
+				Run();
+
+				// 함수 호출후 메모리
+				mem = GC.GetTotalMemory(false);
+				Console.WriteLine("Current Memory: {0}", mem);
+
+				// 메모리 Clean Up
+				GC.Collect();
+				Thread.Sleep(5000);
+
+				// 메모리 Clean Up 후
+				mem = GC.GetTotalMemory(false);
+				Console.WriteLine("After GC Memory: {0}", mem);
+			}
+
+			// 아래 함수에서 대량의 메모리
+			// 사용하는 객체 생성
+			static void Run()
+			{
+				var obj = new LargeDataClass();
+				obj.Set(1, 10);
+			}
+		}
+
+		// 대량 데이타 필드를 가진 클래스
+		class LargeDataClass
+		{
+			// memory = 4 * 1,000,000 = 4M
+			private int[] data = new int[1000000];
+
+			public void Set(int index, int value)
+			{
+				data[index] = value;
+			}
+		}

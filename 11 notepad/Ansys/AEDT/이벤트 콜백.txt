@@ -1,0 +1,35 @@
+이벤트 콜백 스크립팅 - https://ansyshelp.ansys.com/account/secured?returnurl=/Views/Secured/Electronics/v202/en//Subsystems/Maxwell/Subsystems/Maxwell%20Scripting/Maxwell%20Scripting.htm%23EventCallbackScripting.htm?Highlight=callback
+
+이벤트 콜백 스크립팅을 사용하면 트리거 이벤트가 감지된 후 자동으로 실행되는 사용자 지정 
+JavaScript 및 VBScript 루틴, 구성 요소 배치 또는 시뮬레이션 실행과 같은 이벤트를 정의할 수 있습니다. 
+Event 콜백 스크립트를 정의할 때 특정 이벤트가 감지된 후 실행될 스크립트를 하나 이상 지정합니다. 
+자세한 내용은 도움말에서 이벤트 콜백을 참조하십시오.
+
+콜백 스크립트는 콜백 정의에 의해 정의된 함수 및 기타 스크립트에만 액세스할 수 있습니다. 
+예를 들어 Simplorer 콜백 스크립트는 PropHost.GetValue 및 기타 모든 PropHost 함수를 호출할 수 있지만 
+속성 대화 상자 콜백에 정의된 스크립트에서만 호출할 수 있습니다. 
+결과적으로 "PropHost"는 "속성"콜백 스크립트에서만 볼 수있는 Simplorer 스크립트 항목입니다. 
+자세한 내용은 
+	PropHost 개체를 사용한 콜백 스크립팅
+	CompInstance 개체를 사용한 콜백 스크립팅
+
+--------------------------------
+PropHost 개체를 사용한 콜백 스크립팅 - https://ansyshelp.ansys.com/Views/Secured/Electronics/v202/en//Subsystems/Maxwell/Subsystems/Maxwell%20Scripting/Content/CallbackScriptingUsingPropHostObject.htm
+
+콜백 스크립트는 콜백 열의 단추를 클릭하고 프로젝트와 함께 저장된 스크립트를 선택하여 개별 속성에 대한 속성 대화 상자에서 설정할 수 있는 스크립트입니다. 
+콜백 스크립트는 일반적인 ANSYS 스크립트 함수 호출(예: GetApplicationName())을 포함한 모든 합법적 스크립트 명령을 포함할 수 있습니다.
+또한 콜백 스크립트는 PropHost라는 특수 개체에서 함수를 호출할 수도 있습니다. 
+PropHost는 콜백 스크립트를 호출하는 속성을 포함하는 PropServer(속성 소유자)를 나타냅니다. 
+따라서 콜백 스크립트는 PropHost의 함수를 사용하여 동일한 PropServer에서 다른 속성을 쿼리하거나 설정할 수 있습니다.
+
+
+--------------------------------
+CompInstance 개체를 사용한 콜백 스크립팅 단원을 참조하십시오. - https://ansyshelp.ansys.com/Views/Secured/Electronics/v202/en//Subsystems/Maxwell/Subsystems/Maxwell%20Scripting/Content/CompInstanceScriptCommands.htm
+
+콜백 스크립트는 콜백 열의 단추를 클릭하고 프로젝트와 함께 저장된 스크립트를 선택하여 개별 속성에 대한 속성 대화 상자에서 설정할 수 있는 스크립트입니다. 
+콜백 스크립트는 일반적인 ANSYS 스크립트 함수 호출(예: GetApplicationName())을 포함한 모든 합법적 스크립트 명령을 포함할 수 있습니다. 
+또한 콜백 스크립트는 CompInstance라는 특수 개체에서 함수를 호출할 수도 있습니다.
+도식 또는 레이아웃에서 compInstance에 대한 인터페이스는 oEditor.
+GetCompInstanceFromRefDes(refDes)를 호출하여 얻을 수 있습니다. 
+자세한 내용은 레이아웃 스크립팅 및 도식 스크립팅을 참조하십시오. 
+이 인터페이스는 레이아웃이나 회로도에 구성 요소를 배치하는 것과 같은 CompInstance 이벤트 콜백에서 CompInstance 개체로도 사용할 수 있습니다.

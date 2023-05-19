@@ -1,0 +1,8 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\obj\Debug\test_Binding.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\obj\Debug\test_Binding.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\obj\Debug\test_Binding.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\bin\Debug\test_Binding.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\bin\Debug\test_Binding.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\bin\Debug\test_Binding.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\obj\Debug\test_Binding.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Binding\test_Binding\obj\Debug\test_Binding.pdb

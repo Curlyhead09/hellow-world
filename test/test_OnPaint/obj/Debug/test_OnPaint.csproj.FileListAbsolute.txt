@@ -1,9 +1,0 @@
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\bin\Debug\test_OnPaint.exe.config
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\obj\Debug\test_OnPaint.csprojResolveAssemblyReference.cache
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\obj\Debug\test_OnPaint.Form1.resources
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\obj\Debug\test_OnPaint.Properties.Resources.resources
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\obj\Debug\test_OnPaint.csproj.GenerateResource.Cache
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\bin\Debug\test_OnPaint.exe
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\bin\Debug\test_OnPaint.pdb
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\obj\Debug\test_OnPaint.exe
-C:\Users\jrmoon.TSNE\Documents\Visual Studio 2013\Projects\test\test_OnPaint\obj\Debug\test_OnPaint.pdb

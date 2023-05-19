@@ -1,0 +1,26 @@
+키보드, 마우스 이벤트를 강제로 발생하기 위해서는 Windows API에서 제공하는 시스템 함수를 호출
+C#에서 Native 에서 제공하는 것을 사용하려면 System.Runtime.InteropServices 네임스페이스의 DllImport 특성을 이용
+
+DllImport 특성을 이용할 때 사용할 함수가 있는 dll 파일의 정보를 지정해야 하는데 
+WINUSERAPI 매크로 상수가 함수 원형 앞에 명시되어 있으면 User32.dll 파일을 지정하세요
+
+ - Native dll에 있는 함수를 Import할 때는 extern 키워드를 포함하여 함수를 선언
+ - 입력 인자 형식이 포인터일 때는 ref 혹은 out으로 바꾸시고 리턴 형식이 포인터일 때는 IntPtr로 하면 적당
+
+/////////////https://docs.microsoft.com/ko-kr/previous-versions/ms172270(v=vs.110)?redirectedfrom=MSDN 
+ 
+DllImport Attribute
+	- 관리되지 않는 DLL(동적 연결 라이브러리)에서 특성 사용 해당 메서드를 정적 진입점으로 노출함을 나타냅니다.
+		[System.AttributeUsage(System.AttributeTargets.Method, Inherited=false)]
+		public sealed class DllImportAttribute : Attribute
+		
+	- example	
+		// Use DllImport to import the Win32 MessageBox function.
+		[DllImport("user32.dll", CharSet = CharSet.Unicode)]
+		public static extern int MessageBox(IntPtr hWnd, String text, String caption, uint type);
+		
+		MessageBox(new IntPtr(0), "Hello World!", "Hello Dialog", 0);
+		
+	이 특성을 메서드에 적용할 수 있습니다.
+	이 특성은 DllImportAttribute 관리되지 않는 DLL에서 내보낸 함수를 호출하는 데 필요한 정보를 제공합니다. 
+	최소 요구 사항으로 진입점을 포함하는 DLL의 이름을 제공해야 합니다.

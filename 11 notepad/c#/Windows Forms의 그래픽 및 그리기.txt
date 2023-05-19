@@ -1,0 +1,37 @@
+Windows Forms의 그래픽 및 그리기
+	
+	공용 언어 런타임은 GDI+라는 Windows GDI(그래픽 장치 인터페이스)의 고급 구현을 사용
+	GDI+를 통해 그래픽을 만들고, 테스트를 그리고, 그래픽 이미지를 개체로 조작
+	GDI+는 성능과 사용 편의성을 제공하도록 설계 됨
+	web Forms에서 직접 GDI+를 사용할 수는 없지만 이미지 웹 서버 컨트롤을 통해 그래픽 이미지를 표시할 수 있음
+	
+	개요
+		GDI+는 Microsoft Windows 운영 체제의 하위 시스템을 구성하는 API
+		GDI+는 화면과 프린터에 정보를 표시
+		GDI의 후속 프로그램
+		
+		참조
+			GDI+는 프로그래머가 디바이스 독립적 애플리케이션을 작성할 수 있도록 하는 그래픽 디바이스 인터페이스이다
+			GDI+의 서비스는 관리형 클래스 집합을 통해 노출 됨
+	
+	관리되는 클래스 인터페이스이다
+		GDI+를 사용하면 특정 디스플레이 장치의 세부 정보를 염려하지 않고 화면 또는 프린터에 정보를 표시할 수 있음
+		프로그래머가 호출한 GDI+메서드는 다시 특정 디바이스 드라이버에 대한 적절한 호출을 수행
+		GDI+는 그래픽 하드웨어에서 애플리케이션을 분리		
+			System.Drawing
+			System.Drawing.Drawing2D
+			System.Drawing.Imaging
+			System.Drawing.Text
+			System.Drawing.Printing
+	
+	그래픽 서비스
+		Windows Forms의 그래픽 제품은 크게 3가지
+			2차원(2D) 벡터 그래픽
+				선, 곡선 및 그림과 같은 2D 벡터 그래픽은 좌표계의 점 세트로 지정되는 기본 형식
+			이미징
+				특정 종류의 그림은 벡터 그래픽 기법으로 표시하기 어렵거나 불가능
+				GDI+는 비트맵을 표시, 조작 및 저장하기 위한 Bitmap 클래스를 제공
+			입력 체계
+				다양한 글꼴, 크리 및 스타일로 된 텍스트의 디스플레이
+				
+https://docs.microsoft.com/ko-kr/dotnet/desktop/winforms/advanced/three-categories-of-graphics-services?view=netframeworkdesktop-4.8

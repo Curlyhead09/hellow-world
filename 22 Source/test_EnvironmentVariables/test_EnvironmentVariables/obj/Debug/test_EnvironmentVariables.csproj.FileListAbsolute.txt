@@ -1,0 +1,7 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_EnvironmentVariables\test_EnvironmentVariables\bin\Debug\test_EnvironmentVariables.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_EnvironmentVariables\test_EnvironmentVariables\bin\Debug\test_EnvironmentVariables.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_EnvironmentVariables\test_EnvironmentVariables\bin\Debug\test_EnvironmentVariables.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_EnvironmentVariables\test_EnvironmentVariables\obj\Debug\test_EnvironmentVariables.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_EnvironmentVariables\test_EnvironmentVariables\obj\Debug\test_EnvironmentVariables.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_EnvironmentVariables\test_EnvironmentVariables\obj\Debug\test_EnvironmentVariables.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_EnvironmentVariables\test_EnvironmentVariables\obj\Debug\test_EnvironmentVariables.pdb

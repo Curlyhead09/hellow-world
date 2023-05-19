@@ -1,0 +1,55 @@
+코딜 모범 사례 - https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/
+When to use Pascal case
+	When naming a class, struct, method, property, or 
+	constant field, Pascal casing is usually preferred.
+	
+	namespace ExampleApp
+	{
+		class ClassNamingConvention
+		{
+			public const string ConstantFieldNamingConvention = "C#";
+			public string PropertiesNamingConvention { get; set; }
+
+			public void MethodNamingConvention()
+			{
+				//type something here
+			}
+		}
+	}
+	
+	interface
+	When naming an interface, it is usually prefixed with the capital letter I. 
+	You can also use Pascal case when naming an interface.
+	
+	public interface IInterfaceNamingConvention
+	{
+			//type something here
+	}
+	
+When to use Camel case
+	Camel cases are used when naming method arguments, private fields, and 
+	local variables. Private fields are usually prefixed with _.
+	
+	private string _fieldsNamingConvention;
+	public void MethodNamingConvention(string methodArgsNamingConvention)
+	{
+		 string localVariables = "string here ...";            
+	}
+
+의미있는 이름 사용
+	Use meaningful names for classes, methods, and properties
+	Use meaningful names for LINQ query variables
+
+멤버 변수와 피드는 클래스 맨위에 선언
+
+성능을 높이려면 &, |대신 &&, ||를 사용
+	and 연산자를 단락 연산자라고 하며 연산의 첫 번째 피연산가자 false 이면 전체 식이 false 여야 하므로 두 번째
+	피연산자가 평가 되지 않는다.
+
+메서드를 단일 기능으로 제한
+
+??숫자와 문자열을 사용하여 불연속 값을 나타내는 대신 열거형을 사용하여
+
+??문자열 변수를 사용자 입력과 비교하기 전에 항상 대문자 또는 소문자로 변환
+	
+	
