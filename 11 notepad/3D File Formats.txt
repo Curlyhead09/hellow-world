@@ -1,0 +1,32 @@
+
+STEP(Standard for the Exchange of Product Data)
+제품 모델 데이터 교환을위한 표준"을 나타내는 "STEP"로 알려져 있습니다.
+ISO 10303-21
+
+DAE
+Digital Asset Exchange 파일
+COLLADA는 상호작용 3D 애플리케이션을 위한 교환 파일 형식이다. 
+비영리 기술 컨소시엄 크로노스 그룹이 관리하고 있으며 ISO에 의해 ISO/PAS 17506라는 사양으로 채택
+
+OBJ(Wavefromt file format spceification)
+Wavefront Technologies에서 Advanced Visualizer 
+애니메이션 패키지를 위해 처음 개발 한 형상 정의 파일 형식
+
+-------------------------------
+
+FBX 
+모션 캡처 및 키프레임 애니메이션 만들기, 편집, 혼합에 사용되는 시스템인 Autodesk MotionBuilder의 기본 파일 형식
+
+glTF(GL Transmission Format의 줄임말)
+3차원 장면과 모델을 표현하는 파일 포맷으로 JSON 표준에 기반하고 있다.
+
+lwo
+개발자뉴텍 인기 3.3 (4 표) 범주3D 이미지 파일 체재이진 X 이 파일은 바이너리 형식
+
+3DS
+오토데스크 3ds 맥스의 3D 모델링, 애니메이션, 렌더링 소프트웨어에서 사용되는 파일 포맷이다.
+
+3d OFF(Object File Format)
+
+STL
+입체 물체의 표면 즉, 3D 모델을 무수히 많은 삼각형 면으로 구성해 표현해주는 일종의 폴리곤 포맷

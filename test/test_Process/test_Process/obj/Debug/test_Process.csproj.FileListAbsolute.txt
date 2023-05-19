@@ -1,6 +1,0 @@
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Process\test_Process\bin\Debug\test_Process.exe.config
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Process\test_Process\bin\Debug\test_Process.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Process\test_Process\bin\Debug\test_Process.pdb
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Process\test_Process\obj\Debug\test_Process.csproj.CoreCompileInputs.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Process\test_Process\obj\Debug\test_Process.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Process\test_Process\obj\Debug\test_Process.pdb

@@ -1,0 +1,21 @@
+GPU 뭘 선택
+ - https://www.dknyou.com/blog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=7090447&t=board
+ 
+ 
+ 1. GPU Lineup
+
+GeForce 
+	일반 개인 컴퓨팅 환경을 위한 제품군으로 주로 게임용이라고 보시면 됩니다.
+	최신 모델 : GeForce RTX 30 Serise (3090,3080Ti, 3080, 3070Ti, 3070, 3060Ti, 3060)
+
+Quadro
+	그래픽 전문가용 제품군으로 랜더링 그래픽 작업자 또는 CAD/CAE를 위한 엔지니어링 작업자가 사용하는 Workstation에 주로 적용됩니다.
+	최신 모델 : RTX A6000, RTX A5000, RTX 8000, RTX 5000 등
+
+Tesla
+	기업 데이터센터용 제품군으로 개인장비가 아닌 서버에 GPU를 넣어야 한다면 Tesla 제품군을 선택해야 합니다. 
+	최신 모델 : A100, A40, A16, A10, V100, T4 등
+	
+2. GPU Architecture
+Ampere
+	Volta와 Turing 의 후속작으로 개발된 nvidia의 최신 아키텍쳐이며, 2020년 5월 14일 공식 발표되었습니다

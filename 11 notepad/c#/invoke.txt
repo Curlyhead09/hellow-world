@@ -1,0 +1,63 @@
+invoke
+
+--------https://learn.microsoft.com/ko-kr/dotnet/api/system.windows.forms.control.invoke?view=windowsdesktop-7.0
+control invoke
+	컨트롤의 내부 창 핸들에 있는 스레드에서 대리자를 실행
+ 
+	Invoke(Action)	
+		컨트롤의 내부 창 핸들이 있는 스레드에서 지정된 대리자를 실행합니다.
+	Invoke(Delegate)	
+		컨트롤의 내부 창 핸들이 있는 스레드에서 지정된 대리자를 실행합니다.
+	Invoke(Delegate, Object[])	
+		컨트롤의 내부 창 핸들이 있는 스레드에서 특정 인수 목록을 사용하여 지정된 대리자를 실행합니다.
+	Invoke<T>(Func<T>)	
+		컨트롤의 내부 창 핸들이 있는 스레드에서 지정된 대리자를 실행합니다.
+
+--------https://learn.microsoft.com/ko-kr/dotnet/api/system.windows.forms.control.invokerequired?view=windowsdesktop-7.0#system-windows-forms-control-invokerequired
+Control InvokeRequired
+	호출자가 컨트롤이 만들어진 스레드와 다른 스레드에 있기 때문에 
+	메서드를 통해 컨트롤을 호출하는 경우 해당 호출자가 호출 메서드를 호출해야 하는지를 나타내는 값을 가져온다
+
+
+--------https://learn.microsoft.com/ko-kr/dotnet/api/system.windows.forms.methodinvoker?view=windowsdesktop-7.0
+Method Invoke
+	관리 코드에서 void로 선언되고 매개 변수를 사용하지 않는 모든 메서드를 실행할 수 있는 대리자를 나타냄
+
+	 this.Invoke((MethodInvoker) delegate
+        {
+            // Show the current time in the form's title bar.
+            this.Text = DateTime.Now.ToLongTimeString();
+        });
+
+MethodInfo invoke
+ 
+ //왜 구현했는지 모르겠는 코드 ??????????
+
+ 
+ 
+         //일반화 컬렉션을 사용하는 Dynamic object 매서드를 호출한다 
+        //How to use dynamic object with generics in C#
+        //https://www.codeproject.com/Questions/1178364/How-to-use-dynamic-object-with-generics-in-Csharp
+        //private readonly MethodInfo DoStuffMethod = typeof(Helper).GetMethod("DoStuffHelper", BindingFlags.NonPublic | BindingFlags.Static);
+ 
+		//data source의 정확한 값 설정을 확인 안하고 작업
+			Type t = value.GetType();
+            //MethodInfo m = DoStuffMethod.MakeGenericMethod(t);
+            ////Dynamic object 매서드를 호출한다 
+            //var result = m.Invoke(null, new[] { (object)value });
+
+            //ultraGridProductTest.DataSource = result;
+			
+			
+			
+     //static class Helper
+    //{
+    //    //일반화 컬렉션 
+    //    //======================================
+    //    //2021.12.27 문정록
+    //    //Tree 아이템 선택에 따른 Property Window 속성 변경 중복 코드 처리
+    //    private static List<T> DoStuffHelper<T>(T value)
+    //    {
+    //        return new List<T>() { value };
+    //    }
+    //}

@@ -1,0 +1,57 @@
+
+온라인
+----------------
+	https://anyconv.com/ko/stp-to-obj-byeonhwangi/
+	https://cadmonster.org/
+	https://convert.emachineshop.com/
+	http://www.swiftconverter.com/convert_3d
+	
+
+유료 
+----------------
+AUTOMAPKI X
+	https://www.automapki.com/tutorials/convert-3mf-to-obj-file-format.html
+	1년 97,170 
+
+NCH Software - XXXXXXXX
+	step x, batch 제공
+
+무료-SW
+----------------
+	https://listoffreeware.com/free-step-to-obj-converter-software-windows/
+	FreeCAD
+	gCAD3DNow, go
+	Axdea
+
+
+SDK 제공
+------------------
+CAD Exchanger - SDK 요청상태 05/26
+	https://cadexchanger.com/products/sdk/try
+
+
+
+
+
+
+github
+------------------
+
+IGES-STEP-to-OBJ (exe 방식)
+	https://github.com/Sanaxen/IGES-STEP-to-OBJ
+	OpenCASCADE Base - LGPL	
+		Start CMake
+		https://dev.opencascade.org/doc/overview/html/build_upgrade__building_occt.html#build_cmake_start
+	
+
+
+file-extensions.org
+---------
+	검색결과 - Conversion of step file format to obj file format
+	https://www.file-extensions.org/convert-step-to-obj
+
+		PolyTrans - https://www.okino.com/conv/order/order.htm 유료
+			https://www.file-extensions.org/polytrans-cad-dcc-file-extensions#desc
+			!!Import, Export and batch convert 3D files.
+			
+			

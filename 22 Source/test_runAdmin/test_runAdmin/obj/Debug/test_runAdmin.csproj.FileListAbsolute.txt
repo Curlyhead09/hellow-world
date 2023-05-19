@@ -1,0 +1,9 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\bin\Debug\test_runAdmin.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\bin\Debug\test_runAdmin.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\bin\Debug\test_runAdmin.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\obj\Debug\test_runAdmin.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\obj\Debug\test_runAdmin.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\obj\Debug\test_runAdmin.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\obj\Debug\test_runAdmin.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\obj\Debug\test_runAdmin.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_runAdmin\test_runAdmin\obj\Debug\test_runAdmin.pdb

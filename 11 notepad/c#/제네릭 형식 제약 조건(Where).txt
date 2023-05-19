@@ -1,0 +1,25 @@
+https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/where-generic-type-constraint
+
+제네릭 형식 제약 조건
+	특정 조건에만 대응되는 데이터 타입이 필요한 경우
+	where 키워드를 사용하여 제약 조건을 추가할 수 있으며, 
+	제약 조건을 만족하지 않는 경우 컴파일 에러가 발생
+
+
+	제네릭 제약 조건 종류-제약 조건 설명
+		where T : struct	
+			T는 null을 허용하지 않는 값 형식이어야 합니다.
+		where T : class	
+			T는 참조 형식이어야 합니다.
+		where T : new()	
+			T는 매개 변수가 없는 public 생성자가 있어야 합니다. 다른 제약 조건과 함께 사용되는 경우 new() 제약 조건을 마지막에 지정해야 합니다.
+		where T : notnull	
+			T는 null이 아닌 형식이어야 합니다.
+		where T : unmanaged	
+			T는 null이 아닌 비관리형 형식이어야 합니다.
+		where T : <base class name>	
+			T는 지정된 기본 클래스이거나 이 클래스에서 파생된 클래스여야 합니다.
+		where T : <interface name>	
+			T는 지정된 기본 인터페이스이거나 이 인터페이스에서 파생된 유형이여야 합니다.
+		where T : U	
+			U는 인터페이스, 추상 클래스 또는 일반 클래스가 될 수 있으며, T는 U에서 상속되어야 합니다.

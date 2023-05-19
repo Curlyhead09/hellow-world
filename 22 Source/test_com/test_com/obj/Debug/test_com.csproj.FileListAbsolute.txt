@@ -1,0 +1,13 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\bin\Debug\test_com.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\bin\Debug\test_com.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\bin\Debug\test_com.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\bin\Debug\ComLibrary.dll
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\bin\Debug\ComLibrary.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\test_com\obj\Debug\test_com.csproj.CopyComplete

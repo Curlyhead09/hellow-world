@@ -1,0 +1,7 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\ComLibrary\obj\x86\Debug\ComClassExample.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\ComLibrary\bin\x86\Debug\ComClassExample.dll
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\ComLibrary\bin\x86\Debug\ComClassExample.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\ComLibrary\bin\x86\Debug\ComClassExample.tlb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\ComLibrary\obj\x86\Debug\ComClassExample.dll
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\ComLibrary\obj\x86\Debug\ComClassExample.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_com\ComLibrary\obj\x86\Debug\ComClassExample.csproj.AssemblyReference.cache

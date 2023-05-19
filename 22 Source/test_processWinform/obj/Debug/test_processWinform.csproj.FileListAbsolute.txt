@@ -1,0 +1,10 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\bin\Debug\test_processWinform.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\bin\Debug\test_processWinform.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\bin\Debug\test_processWinform.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\obj\Debug\test_processWinform.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\obj\Debug\test_processWinform.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\obj\Debug\test_processWinform.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\obj\Debug\test_processWinform.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\obj\Debug\test_processWinform.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\obj\Debug\test_processWinform.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_processWinform\obj\Debug\test_processWinform.pdb

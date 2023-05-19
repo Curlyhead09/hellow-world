@@ -1,0 +1,10 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\obj\Debug\test_Graphics.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\obj\Debug\test_Graphics.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\obj\Debug\test_Graphics.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\obj\Debug\test_Graphics.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\obj\Debug\test_Graphics.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\bin\Debug\test_Graphics.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\bin\Debug\test_Graphics.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\bin\Debug\test_Graphics.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\obj\Debug\test_Graphics.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_Graphics\test_Graphics\obj\Debug\test_Graphics.pdb

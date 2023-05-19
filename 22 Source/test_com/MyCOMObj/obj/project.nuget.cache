@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PM2EhqPXEmKH7EOVQR2TCjlTOJdwiZVJTBeZSqt8xO5xOwdNNCsdvB60IQr/N51kWcvPakfxDvAH0u9H+BeWqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrmoon\\Documents\\Visual Studio 2019\\Projects\\test\\test_com\\MyCOMObj\\MyCOMObj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrmoon\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

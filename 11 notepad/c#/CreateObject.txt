@@ -1,0 +1,32 @@
+CreateObject (VBA) 함수 
+https://support.microsoft.com/ko-kr/office/createobject-%ED%95%A8%EC%88%98-31917b05-1530-48f5-86d6-d2bd748aad74
+	개체에 대한 참조를 만들고 ActiveX(인터넷 지원 구성 요소) 반환
+	응용프로그램의 새로운 인스턴스를 생성해서 참조를 반환
+	
+	CreateObject(class [, servername] )
+		Class(필수, Variant(String)) 
+			만들 개체의 애플리케이션 이름 및 클래스
+			응용프로그램의 버전을 명시하고자 할 경우 마지막에 버전을 명시하고 명시하지
+			않은 경우는 설치된 최신 버전으로 생성("Word.Applicaiton.9")
+			
+		servername (선택, Variant(String))
+			개체를 만들 네트워크 서버의 이름
+			서버 이름이 빈 문자열(")인 경우 로컬 컴퓨터가 사용됩니다.
+
+	• 자동화를 지원하는 모든 애플리케이션은 하나 이상의 개체 유형을 제공
+	예를 들어 워드 처리 애플리케이션은 Application 개체, 문서 개체 및 도구 모음 개체를 제공g할 수 있음
+	
+	
+	
+CreateObject in C#
+https://docs.microsoft.com/ko-kr/dotnet/api/microsoft.visualbasic.interaction.createobject?view=net-6.0
+	프레임워크 개체 만들기
+		이 함수는 CreateObject COM 개체를 만드는 데만 사용할 수 있습니다. 
+		.NET Framework 개체 Activator System 를 만들기 위한 정확한 메커니즘은 없지만 
+		네임스페이스에는 로컬 또는 원격 개체를 만드는 메서드가 포함되어 있습니다. 
+		특히 CreateInstance 메서드 또는 메서드가 CreateInstanceFrom 유용할 수 있습니다.
+	
+	
+	
+------------------참고
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=yungth&logNo=220340050667

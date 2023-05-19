@@ -1,0 +1,95 @@
+git의 기본
+	분산형 버전 관리 시스템으로 Linux 소스코드를 관리할 목저으로 개발	
+	(동시 작업으로 인해 발생할 수 있는 문제를 해결하기 위해 만들어 짐)
+		- 소스코드의 변경 이력을 쉽게 확인
+		- 특정 시점에 저장 된 버전과 비교 하거나 특정 시점으로 되돌아갈 수도 있음
+		- 충돌에 대한 경고 
+	
+	이력 관리 저장소(Repository) 
+		파일이나 폴더의 변경 이력을 이력별로 구분해서 저장
+	
+		원격 저장소와 로컬 저장소
+			원격 저장소
+				- 원격 저장소 전용 서버에서 관리 
+				- 여러 사람이 함께 공유하기 위한 저장소
+			로컬 저장소
+				- 사용자 PC에 파일이 저장 (개인 전용 저장소)
+		
+			평소에는 사용자 PC에서 작업, 작업한 내용을 공개하고 싶을 때에 원격 저장소에 업로드 또는
+			다른 사람이 작업한 파일을 로컬 저장소로 가져올 수도 있음
+			
+		저장소 만들기
+			- 새로운 저장소를 만드는 방식
+			- 이미 만들어져 있는 원격 저장소를 복사하는 방식
+		
+	변경을 기록하는 Commit(파일 및 폴더의 추가/변경 사항을 저장소에 기록 )
+		commit은 이전 커밋 상태부터 현재 상태까지의 변경 이력이 기록 된 새로운 커밋이 생성 됨(리비전)
+			- 커밋은 시간 순으로 저장 됨
+			- 과거 변경 이력과 내요을 알 수 있음
+			- 이력을 확인하기 위해 커밋 메시지를 필수로 입력해 주어야 함
+	
+		작업 트리와 인덱스
+			작업 트리 - 폴더를 작업 트리라고 부름
+			인덱스 -커밋을 실행하기 전의 저장소 작업 트리 사이에 존재하는 공간
+			
+		커밋 작업은 작업 트리에 있는 변경 내용을 저장소에 바로 기록하는 것이 아니라 그 사이 
+		공간인 인덱스에 파일 상태를 기록 (Stage 하낟고 표현) 따라서 저장소에 
+		변경 사항을 기록하기 위해서는 기록하고자 하는 모든 변경 사항들이 인덱스에 존재해야 함
+		
+			
+작업 순서
+	1. git hub 가입 AND start project amd create repository
+	2. git utility 설치
+	3. git hub와 연결
+		폴더 선택 git bash here 실행
+			기본 설정 및 파일 업로드
+				git config 
+					global user.name "xx"
+					global user.email "xxx"
+				git init
+				git remote add origin "link repository"
+				vi web01.txt 
+				git status
+				git add "file"
+				git log
+				git commit -m "message"
+				git push origin master
+			명령어
+				git remote -v
+				git remote update (원격 저장소의 브랜치 가져오기)		
+				git remote update --prune
+				git remote prune origin
+					(원격 저장소에 존재하지 않는 브랜치들은 로컬에 반영하여 삭제)
+				git remote show origin (구체적인 정보 확인)	
+					
+				git pull origin master
+				git clone github -url
+				
+				
+			branch 생성
+				git branch xxx 
+				git branch and git banch -v
+				
+				git checkout xxx or git chckout -t origin/[브랜치명]  (원격 저장소 브랜치 가져오기)
+				vi~~
+				git add "file"
+				git log
+				git commit -m "message"
+				git push origin master
+			merge
+				git checkout master
+				git log
+				git merge xxx
+			
+			
+마가막 commit
+	git show -s   or log -1
+마지막 commit 메시지 변경
+	git commit --amend -m "message"
+			
+git remote remove origin
+			
+			
+참고 
+	https://backlog.com/git-tutorial/kr/
+		

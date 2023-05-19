@@ -1,0 +1,13 @@
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\bin\Debug\test_json.exe.config
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\bin\Debug\test_json.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\bin\Debug\test_json.pdb
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.csproj.AssemblyReference.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.Form1.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.Properties.Resources.resources
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.csproj.GenerateResource.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.csproj.CoreCompileInputs.cache
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.csproj.CopyComplete
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.exe
+C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_json\test_json\obj\Debug\test_json.pdb

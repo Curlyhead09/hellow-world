@@ -1,0 +1,37 @@
+ProgID 키
+	\HKEY_LOCAL_MACHINE\SOFTWARE\Classes{ProgID}
+	CLSID와 연결할 수 있는 레지스트리 항목
+	CLSID와 마찬가지로 ProgID는 클래스를 식별, 정밀도가 낮음
+	
+		CLSID - ProgID를 CLSID와 연결
+		삽입 가능 - 이 클래스를 OLE2 컨테이너에 삽입할 수 있음을 나타냄
+		프로토콜 - 이 OLE2 클래스는 OLE1 컨테이너에 삽입할 수 있음을 나타냄
+		셸 - windows 3.1 셸 인쇄 및 파일 열기 정보를 제공
+	
+	CLSID를 사용할 수 없는 프로그래밍 상황에서 ProgID를 사용할 수 있음
+	ProgID는 사용자 인터페이스에 표시되지 않아야 함
+	ProgID는 고유하게 보장되지 않으므로 이름 충돌을 관리할 수 있는 경우에만 사용할 수 있음
+	
+	
+	ProgID가 사용자 인터페이스에 표시되지 않아야 하므로 IOleObject::GetUserType을 호출하여 표시 가능한
+	이름을 가져올 수 있음
+	HKEY_LOCAL_MACHINE\SOFTWARE\Classes 키 :이전 버전의 COM과의 호환성을 위해 유지된 HKEY_CLASSES_ROOT 키에 해당
+CLSID 키
+	\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID{CLSID}
+	CLSID는 COM 클래스 개체를 식별하는 전역적으로 고유한 식별자 
+	서버 또는 컨테이너가 포함된 개체에 대한 연결을 허용하는 경우 지원되는 각 개체 클래스에 대해 CLSID를 등록해야 함
+	
+	
+AppID 키
+	\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID{AppID_GUID}
+	하나 이상의 DCOM 개체에 대한 구성 옵션을 레지스트리의 중앙 집중식 위치로 그룹화 함
+	동일한 실행 파일에서 호스트되는 DCOM 개체는 하나의 AppID로 그룹화되어 일반적인 보안 및 구성 설정의 관리를 간소화
+	
+	HKEY_LOCAL_MACHINE\SOFTWARE\Classes 키는 이전 버전의 COM과의 호환성을 위해 유지된 HKEY_CLASSES_ROOT 키에 해당
+	CLSID 키는 실행 중 상태릴 때 클래스에 대한 정보를 반환하기 위해 기본 COM 처리기에서 사용하는 정보를 포함
+
+인터페이스 키
+	HKEY_LOCAL_MACHINE\SOFTWARE\Classes 키는 이전 버전의 COM과의 호환성을 위해 유지된 HKEY_CLASSES_ROOT 키에 해당
+	인터페이스 이름을 IID(인터페이스 ID)와 연결하여 새 인터페이스를 등록 
+	새 인터페이스마다 하나의 IID 하위 키가 존재해야만 함
+	

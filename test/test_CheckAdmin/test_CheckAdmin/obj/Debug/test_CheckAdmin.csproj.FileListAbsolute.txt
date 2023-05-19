@@ -1,9 +1,0 @@
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\bin\Debug\test_CheckAdmin.exe.config
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\bin\Debug\test_CheckAdmin.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\bin\Debug\test_CheckAdmin.pdb
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\obj\Debug\test_CheckAdmin.Form1.resources
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\obj\Debug\test_CheckAdmin.Properties.Resources.resources
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\obj\Debug\test_CheckAdmin.csproj.GenerateResource.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\obj\Debug\test_CheckAdmin.csproj.CoreCompileInputs.cache
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\obj\Debug\test_CheckAdmin.exe
-C:\Users\jrmoon\Documents\Visual Studio 2019\Projects\test\test_CheckAdmin\test_CheckAdmin\obj\Debug\test_CheckAdmin.pdb
